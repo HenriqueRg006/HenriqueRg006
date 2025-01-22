@@ -7,7 +7,7 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos pes
 - 📚 Estou sempre aprendendo e compartilhando conhecimento.
 - 💻 Desenvolvedor focado em Full Stack.
 - 🌱 Atualmente estou aprendendo mais sobre  HTML, CSS, Javascript, React, Java, SQL.
-- 📫 Como me encontrar: [seu e-mail ou outras formas de contato].
+- 📫 Como me encontrar: rodrigues.ghenrique@gmail.com.
 
 ## 🛠️ Minhas habilidades
 
@@ -18,7 +18,7 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos pes
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[HenriqueRg006]&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqueRg006&show_icons=true&theme=radical)
 
 Obrigado por visitar o meu perfil! 😊
 
