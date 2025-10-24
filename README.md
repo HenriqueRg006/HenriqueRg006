@@ -7,7 +7,7 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos pes
 Sou técnico em Informática para Internet pelo IF Goiano - Campus Trindade desde 2024 e desenvolvedor fullstack júnior.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.rg06?igsh=MWN3MnBnYWlpMGhweg==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrique-rodrigues-gomes-874abb346)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-rodrigues-gomes-874abb346/)
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueRg006&show_icons=true&theme=transparent)
 
