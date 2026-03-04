@@ -24,7 +24,6 @@ Aqui você encontrará meus projetos, experimentos, estudos e contribuições.
 * 🎓 Estudante do **3º período de Engenharia de Software na UNIGOIÁS**
 * 💻 Desenvolvedor **Fullstack Júnior**
 * 🚀 Sempre estudando novas tecnologias
-* 📚 Atualmente focado em **Java, APIs e desenvolvimento backend**
 * ⚡ Interessado em **Web, Mobile e automações**
 
 ---
