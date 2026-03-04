@@ -10,7 +10,7 @@ Aqui você encontrará meus projetos, experimentos, estudos e contribuições no
 
 ---
 
-# 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/henrique.rg06)
 
@@ -18,7 +18,7 @@ Aqui você encontrará meus projetos, experimentos, estudos e contribuições no
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 * 🎓 Técnico em **Informática para Internet desde 2024**
 * 🎓 Estudante do **3º período de Engenharia de Software na UNIGOIÁS**
@@ -29,7 +29,7 @@ Aqui você encontrará meus projetos, experimentos, estudos e contribuições no
 
 ---
 
-# 🛠 Tecnologias e Ferramentas
+## 🛠 Tecnologias e Ferramentas
 
 ### Linguagens
 
@@ -56,20 +56,28 @@ Aqui você encontrará meus projetos, experimentos, estudos e contribuições no
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueRg006\&show_icons=true\&theme=transparent)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueRg006\&layout=compact\&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRg006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRg006&layout=compact&langs_count=7&theme=tokyonight"/>
 
-# 🔥 Streak de Contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com?user=henriqueRg006\&theme=transparent)
+</div>
 
 ---
 
-# ⭐ Obrigado por visitar meu perfil!
+## 🔥 Streak de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HenriqueRg006&theme=tokyonight"/>
+
+</div>
+
+---
+
+## ⭐ Obrigado por visitar meu perfil!
 
 Se você gostou de algum projeto, não esqueça de deixar uma ⭐ no repositório.
