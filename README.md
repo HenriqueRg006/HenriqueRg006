@@ -1,7 +1,7 @@
 # 👋 Oi, me chamo Henrique Rodrigues Gomes
 
 💻 Desenvolvedor Fullstack Júnior <br/>
-🎓 Técnico em Informática para Internet pelo **IF Goiano - Campus Trindade (2024)* *<br/>
+🎓 Técnico em Informática para Internet pelo **IF Goiano - Campus Trindade (2024)** <br/>
 🎓 Estudante do **3º período de Engenharia de Software no Centro Universitário de Goiás (UNIGOIÁS)** <br/>
 🚀 Apaixonado por tecnologia, desenvolvimento web e mobile
 
