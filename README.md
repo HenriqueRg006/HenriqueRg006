@@ -1,35 +1,75 @@
-# Olá, me chamo Henrique Rodrigues Gomes! 👋🏽
+# 👋 Olá, eu sou Henrique Rodrigues Gomes
 
-Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos pessoais, contribuições e repositórios de código. Sou apaixonado por desenvolvimento web e mobile e estou sempre aprendendo novas tecnologias e ferramentas para melhorar minhas habilidades!
+💻 Desenvolvedor Fullstack Júnior
+🎓 Técnico em Informática para Internet pelo **IF Goiano - Campus Trindade (2024)**
+🎓 Estudante do **3º período de Engenharia de Software no Centro Universitário de Goiás (UNIGOIÁS)**
+🚀 Apaixonado por tecnologia, desenvolvimento web e mobile
 
-## Sobre mim
+Seja bem-vindo ao meu perfil do GitHub!
+Aqui você encontrará meus projetos, experimentos, estudos e contribuições no mundo da programação.
 
-Sou técnico em Informática para Internet pelo IF Goiano - Campus Trindade desde 2024 e desenvolvedor fullstack júnior.
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique.rg06?igsh=MWN3MnBnYWlpMGhweg==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-rodrigues-gomes-874abb346/)
+# 🌐 Conecte-se comigo
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueRg006&show_icons=true&theme=transparent)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/henrique.rg06)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henrique-rodrigues-gomes-874abb346)
 
-## Linguagens mais usadas
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueRg006)](https://github.com/henriqueRg006/github-readme-stats)
+# 👨‍💻 Sobre mim
 
+* 🎓 Técnico em **Informática para Internet desde 2024**
+* 🎓 Estudante do **3º período de Engenharia de Software na UNIGOIÁS**
+* 💻 Desenvolvedor **Fullstack Júnior**
+* 🚀 Sempre estudando novas tecnologias
+* 📚 Atualmente focado em **Java, APIs e desenvolvimento backend**
+* ⚡ Interessado em **Web, Mobile e automações**
 
-## Minhas habilidades 👨🏽‍💻
+---
 
-<div style="display: inline-block"> <br/>
-    <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
+# 🛠 Tecnologias e Ferramentas
 
-<br/>
+### Linguagens
 
-### Obrigado por visitar o meu perfil! 😊
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+# 📊 Estatísticas do GitHub
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueRg006\&show_icons=true\&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueRg006\&layout=compact\&theme=transparent)
+
+---
+
+# 🔥 Streak de Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com?user=henriqueRg006\&theme=transparent)
+
+---
+
+# ⭐ Obrigado por visitar meu perfil!
+
+Se você gostou de algum projeto, não esqueça de deixar uma ⭐ no repositório.
